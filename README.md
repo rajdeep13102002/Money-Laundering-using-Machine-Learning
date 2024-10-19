@@ -6,3 +6,7 @@ Key Features:
 Developed a machine learning model to identify high-risk financial transactions related to money laundering.
 Applied unsupervised learning techniques to find hidden patterns and outliers in large financial datasets.
 Improved detection accuracy by 15% through feature engineering focused on transaction behavior, frequency, and entity relationships.
+
+Code:
+
+
